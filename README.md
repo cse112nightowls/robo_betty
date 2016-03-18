@@ -1,4 +1,4 @@
-# robo_betty_alpha [![Build Status](https://travis-ci.org/bluejay112/robo_betty_alpha.svg?branch=development)](https://travis-ci.org/bluejay112/robo_betty_alpha)
+# robo_betty_alpha [![Build Status](https://codeship.com/projects/411647d0-c246-0133-543e-66aebc4c133d/status?branch=master)](https://codeship.com/projects/411647d0-c246-0133-543e-66aebc4c133d/status?branch=master)
 
 # Update 1/12/16 for CSE112 Winter 2016 Students
 Use https://cse112bluejay.herokuapp.com/ to access last years version of the app. Happy Refactoring!
